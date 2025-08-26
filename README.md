@@ -47,10 +47,4 @@ This project implements **full CRUD (Create, Read, Update, Delete)** functionali
 
 ---
 
-## 🔮 Future Improvements  
-- 🌙 Dark mode  
-- 💾 Save tasks in **Local Storage**  
-- 📱 Mobile app version with React Native  
-
----
 
